@@ -1,27 +1,27 @@
 # FUNDAMENTALS
 
-## [FUNDAMENTAL 01](01.md)
+## [1. 인공지능 개발자가 되기 위한 위대한 첫 걸음](01.md)
 - Ubuntu, Python, Tensorflow
 - Shell, Terminal
 - Anaconda, Virtual Environment
 
-## [FUNDAMENTAL 02](02.md)
+## [2. 개발자를 위한 첫 번째 필수 교양](02.md)
 - 협업 툴
 - Git & Github
 - Jupyter Notebook
 - Markdown
 
-## [FUNDAMENTAL 03](03.md)
+## [3. 터미널로 배우는 리눅스 운영체제](03.md)
 - 터미널
 - 운영체제
 - 리눅스 기반 운영체제
 - 셸 심화
 
-## [FUNDAMENTAL 04](04.md)
+## [4. 파이썬으로 코딩 시작하기](04.md)
 - 파이썬
 - 피보나 치킨
 
-## [FUNDAMENTAL 05](05.md)
+## [5. 텍스트의 다양한 변신 (문자열, 파일 다루기)](05.md)
 - 문자열 다루기
   - 인코딩과 디코딩
   - 문자열 메소드
@@ -33,3 +33,14 @@
 	- CSV 파일
 	- XML 파일
 	- JSON 파일
+
+
+## [6. 파이썬 잘하는 척 해보자](06.md)
+- enumerate
+- list comprehension
+- try ~ except
+- multiprocessing
+- function
+- module and package
+- functional programming
+- PEP8
