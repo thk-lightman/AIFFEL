@@ -9,6 +9,7 @@
 - [4. 파이썬으로 코딩 시작하기](FUNDAMENTALS/04.md)
 - [5. 텍스트의 다양한 변신 (문자열, 파일 다루기)](FUNDAMENTALS/05.md)
 - [6. 파이썬 잘하는 척 해보자](FUNDAMENTALS/06.md)
+- [7. Data 어떻게 표현하면 좋을까? 배열(array)과 표(table)](FUNDAMENTALS/07.ipynb)
 
 ## 풀잎스쿨
 Study 모임

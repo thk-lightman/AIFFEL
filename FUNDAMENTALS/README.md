@@ -48,4 +48,5 @@
 ## [07. Data 어떻게 표현하면 좋을까? 배열(array)과 표(table)](07.ipynb)
 - 기초 통계
 - Numpy
+- Pillow
 - Pandas
