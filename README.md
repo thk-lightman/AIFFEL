@@ -9,3 +9,9 @@
 - [4. 파이썬으로 코딩 시작하기](FUNDAMENTALS/04.md)
 - [5. 텍스트의 다양한 변신 (문자열, 파일 다루기)](FUNDAMENTALS/05.md)
 - [6. 파이썬 잘하는 척 해보자](FUNDAMENTALS/06.md)
+
+## 풀잎스쿨
+Study 모임
+- [파이썬 코딩의 기술(Effective Python)](https://github.com/t1seo/Python_Notebook/tree/master/effective_python)
+- cs231n
+- 파이썬 라이브러리를 활용한 데이터 분석
