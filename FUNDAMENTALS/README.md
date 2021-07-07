@@ -50,3 +50,11 @@
 - Numpy
 - Pillow
 - Pandas
+
+## [8. 데이터를 한눈에! Visualization](08.ipynb)
+- matplotlib
+- seaborn
+  - 범주형 데이터
+  - 수치형 데이터
+  - 시계열 데이터
+  - Heatmap
