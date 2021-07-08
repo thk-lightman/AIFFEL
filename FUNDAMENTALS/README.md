@@ -58,3 +58,11 @@
   - 수치형 데이터
   - 시계열 데이터
   - Heatmap
+
+## [9. 다양한 데이터 전처리 기법](09.ipynb)
+- 결측치(Missing Data)
+- 중복된 데이터
+- 이상치(Outlier)
+- 정규화(Normalization)
+- 원-핫 인코딩(One-Hot Encoding)
+- 구간화(Binning)

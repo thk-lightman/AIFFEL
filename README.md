@@ -11,6 +11,7 @@
 - [6. 파이썬 잘하는 척 해보자](FUNDAMENTALS/06.md)
 - [7. Data 어떻게 표현하면 좋을까? 배열(array)과 표(table)](FUNDAMENTALS/07.ipynb)
 - [8. 데이터를 한눈에! Visualization](FUNDAMENTALS/08.ipynb)
+- [9. 다양한 데이터 전처리 기법](FUNDAMENTALS/09.ipynb)
 
 ## 풀잎스쿨
 Study 모임
