@@ -66,3 +66,9 @@
 - 정규화(Normalization)
 - 원-핫 인코딩(One-Hot Encoding)
 - 구간화(Binning)
+
+## [10. 🦄 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리](10.ipynb)
+- [[캐글] Pokemon with stats](https://www.kaggle.com/abcsds/pokemon)
+- EDA
+- Feature Engineering
+- Decision Tree

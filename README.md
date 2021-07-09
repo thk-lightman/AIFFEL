@@ -12,9 +12,15 @@
 - [7. Data 어떻게 표현하면 좋을까? 배열(array)과 표(table)](FUNDAMENTALS/07.ipynb)
 - [8. 데이터를 한눈에! Visualization](FUNDAMENTALS/08.ipynb)
 - [9. 다양한 데이터 전처리 기법](FUNDAMENTALS/09.ipynb)
+- [10. 🦄 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리](FUNDAMENTALS/10.ipynb)
 
 ## 풀잎스쿨
 Study 모임
 - [파이썬 코딩의 기술(Effective Python)](https://github.com/t1seo/Python_Notebook/tree/master/effective_python)
-- cs231n
-- 파이썬 라이브러리를 활용한 데이터 분석
+- [cs231n](http://cs231n.stanford.edu/)
+- [파이썬 라이브러리를 활용한 데이터 분석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162241905&orderClick=LOA&Kc=)
+
+## 참고 자료
+- [Kaggle](https://www.kaggle.com/)
+- [Dacon](https://dacon.io/)
+- [공공 데이터 포털](https://www.data.go.kr/)
