@@ -72,3 +72,6 @@
 - EDA
 - Feature Engineering
 - Decision Tree
+
+## [11. 사이킷런으로 구현해 보는 머신러닝](11.ipynb)
+- Scikit-learn
