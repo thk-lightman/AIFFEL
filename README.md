@@ -13,6 +13,7 @@
 - [8. 데이터를 한눈에! Visualization](FUNDAMENTALS/08.ipynb)
 - [9. 다양한 데이터 전처리 기법](FUNDAMENTALS/09.ipynb)
 - [10. 🦄 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리](FUNDAMENTALS/10.ipynb)
+- [11. 사이킷런으로 구현해 보는 머신러닝](FUNDAMENTALS/11.ipynb)
 
 ## 풀잎스쿨
 Study 모임
