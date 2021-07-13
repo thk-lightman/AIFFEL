@@ -1,0 +1,5 @@
+# EXPLORATION
+
+## EXPLORATION_GN2
+- MNIST
+- 인공지능과 가위바위보 하기
