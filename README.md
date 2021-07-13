@@ -15,6 +15,10 @@
 - [10. 🦄 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리](FUNDAMENTALS/10.ipynb)
 - [11. 사이킷런으로 구현해 보는 머신러닝](FUNDAMENTALS/11.ipynb)
 
+## [EXPLORATION](EXPLORATION/README.md)
+미니 프로젝트들
+- [1. 인공지능과 가위바위보 하기](EXPLORATION/01.md)
+
 ## 풀잎스쿨
 Study 모임
 - [파이썬 코딩의 기술(Effective Python)](https://github.com/t1seo/Python_Notebook/tree/master/effective_python)
