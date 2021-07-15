@@ -18,7 +18,7 @@
 
 ## [EXPLORATION](EXPLORATION/README.md)
 미니 프로젝트들
-- [1. 인공지능과 가위바위보 하기](EXPLORATION/01.md)
+- [1. 인공지능과 가위바위보 하기](EXPLORATION/01/README.md)
 
 ## 풀잎스쿨
 Study 모임
