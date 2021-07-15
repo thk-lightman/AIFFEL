@@ -19,6 +19,7 @@
 ## [EXPLORATION](EXPLORATION/README.md)
 미니 프로젝트들
 - [1. 인공지능과 가위바위보 하기](EXPLORATION/01/README.md)
+- [2. Iris의 세 가지 품종, 분류해볼 수 있겠어요?](EXPLORATION/02/README.md)
 
 ## 풀잎스쿨
 Study 모임
