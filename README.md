@@ -15,6 +15,7 @@
 - [10. 🦄 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리](FUNDAMENTALS/10.ipynb)
 - [11. 사이킷런으로 구현해 보는 머신러닝](FUNDAMENTALS/11.ipynb)
 - [12. 파이썬으로 이미지 파일 다루기](FUNDAMENTALS/12.ipynb)
+- [13. 당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기](FUNDAMENTALS/13.ipynb)
 
 ## [EXPLORATION](EXPLORATION/README.md)
 미니 프로젝트들
