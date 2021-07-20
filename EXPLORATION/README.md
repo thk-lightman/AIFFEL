@@ -14,5 +14,6 @@
 - 왕관 스티커 실습
 - 미니 프로젝트: 고양이 수염 스티커 앱 만들기
 	- 얼굴 각도 변화
+		- [Affine Transformation](https://opencv-python.readthedocs.io/en/latest/doc/10.imageTransformation/imageTransformation.html)
 	- 실행속도 및 정확도
 	- 얼굴 각도(누워서 촬영), 이미지 밝기, 촬영 거리
