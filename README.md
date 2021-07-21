@@ -17,6 +17,7 @@
 - [12. 파이썬으로 이미지 파일 다루기](FUNDAMENTALS/12.ipynb)
 - [13. 당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기](FUNDAMENTALS/13.ipynb)
 - [14. 딥러닝과 신경망의 본질](FUNDAMENTALS/14.ipynb)
+- [15. 딥러닝 들여다보기](FUNDAMENTALS/15.ipynb)
 
 ## [EXPLORATION](EXPLORATION/README.md)
 미니 프로젝트들
